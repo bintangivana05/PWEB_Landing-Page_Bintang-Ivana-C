@@ -1,2 +1,2 @@
 # PWEB_Landing-Page_Bintang-Ivana-C
-membuat Landing page dengan portofolio saya yang mencantumkan projek yang sudah saya kerjakan dengan contact person saya seperti sosial media dan nomor whatsapp. 
+membuat Landing page dengan website portofolio menggunakan HTML, CSS, JavaScript, jQuery, dan Bootstrap. saya yang mencantumkan projek yang sudah saya kerjakan dengan contact person saya seperti sosial media dan nomor whatsapp. 
